@@ -4,7 +4,7 @@ Welcome to the official repository of DQNdot, a deep learning framework for mult
 
 ## Getting Started
 To get started with DQNdot and access the full code and datasets, navigate to my 
- ## [Code Space - Redesigned Guide](https://github.com/smartinprabhu/DQNdot/CodeSpace-Redesigned-Guide).
+ ## [Code Space - Redesigned Guide](https://redesigned-guide-qwv9gg66r97c95q5.github.dev).
 Here, you will find comprehensive instructions on setting up the framework and running multi-object tracking experiments.
 
 ## Overview

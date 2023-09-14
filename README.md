@@ -16,19 +16,19 @@ DQNdot leverages the power of deep reinforcement learning and computer vision to
 
 ## Workflow
 
-![Workflow]("https://github.com/smartinprabhu/DQNdot/mfig1.png")
+[Workflow](./mfig1.png)
 
 The workflow of DQNdot involves object detection, state estimation, and object association to achieve multi-object tracking in UAV imagery. For a detailed explanation of the workflow, please refer to the [Workflow Documentation](#workflow-documentation).
 
 ## Performance Comparison
 
-![Performance Comparison]("https://github.com/smartinprabhu/DQNdot/blob/main/mfig2.png")
+[Performance Comparison](./mfig2.png)
 
 DQNdot's performance is compared with LDVRL and DQN+Deep Sort in aerial surveillance scenarios. The results demonstrate the effectiveness of DQNdot in tracking multiple objects simultaneously.
 
 ## Performance in Datasets
 
-![Performance in VISDRONE and UAVDT]("https://github.com/smartinprabhu/DQNdot/blob/main/mfig3.png")
+[Performance in VISDRONE and UAVDT](./mfig3.png)
 
 DQNdot's performance in the VISDRONE and UAVDT benchmark datasets showcases its ability to handle real-world UAV-enabled aerial surveillance scenarios. For detailed performance metrics, please refer to the [Performance Metrics](#performance-metrics) section.
 

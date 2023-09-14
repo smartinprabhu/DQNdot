@@ -2,6 +2,11 @@
 
 Welcome to the official repository of DQNdot, a deep learning framework for multi-object tracking in UAV-enabled aerial surveillance. This framework combines state-of-the-art components, including YOLOv8, UAVMOT, Kalman filter, and Hungarian Matching Algorithm, to provide robust and efficient object tracking capabilities for aerial surveillance applications.
 
+## Getting Started
+To get started with DQNdot and access the full code and datasets, navigate to my 
+ ## [Code Space - Redesigned Guide](https://github.com/smartinprabhu/DQNdot/CodeSpace-Redesigned-Guide).
+Here, you will find comprehensive instructions on setting up the framework and running multi-object tracking experiments.
+
 ## Overview
 
 DQNdot leverages the power of deep reinforcement learning and computer vision to address the challenges of tracking multiple objects in UAV (Unmanned Aerial Vehicle) imagery. It offers the following key features:
@@ -32,9 +37,7 @@ DQNdot's performance is compared with LDVRL and DQN+Deep Sort in aerial surveill
 
 DQNdot's performance in the VISDRONE and UAVDT benchmark datasets showcases its ability to handle real-world UAV-enabled aerial surveillance scenarios. For detailed performance metrics, please refer to the [Performance Metrics](#performance-metrics) section.
 
-## Getting Started
 
-To get started with DQNdot and access the full code and datasets, navigate to my [Code Space - Redesigned Guide](https://github.com/smartinprabhu/DQNdot/CodeSpace-Redesigned-Guide). Here, you will find comprehensive instructions on setting up the framework and running multi-object tracking experiments.
 
 ## Documentation
 

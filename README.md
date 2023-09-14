@@ -16,7 +16,7 @@ DQNdot leverages the power of deep reinforcement learning and computer vision to
 
 ## Workflow
 
-![Workflow]("https://github.com/smartinprabhu/DQNdot/blob/main/mfig1.png")
+![Workflow]("https://github.com/smartinprabhu/DQNdot/mfig1.png")
 
 The workflow of DQNdot involves object detection, state estimation, and object association to achieve multi-object tracking in UAV imagery. For a detailed explanation of the workflow, please refer to the [Workflow Documentation](#workflow-documentation).
 
